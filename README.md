@@ -5,9 +5,9 @@ This reposirory makes it possible to partially control <a href="https://github.c
 system.conf
 -------------------------------------------------------------------------------------
 This file contains 2 parameters which will be individually explained.<br><br>
-<b>SYSTEM_UPDATE<b><br>
+<b>SYSTEM_UPDATE</b><br>
 If this parameter is set to true, the script will update itself using git pull.<br><br>
-<b>LANGUAGE_CONF<b><br>
+<b>LANGUAGE_CONF</b><br>
 If this parameter is set tot true, the script will recreate languages.conf.<br>
 This function can be usefull to cleanup languages.conf over time<br>
 
